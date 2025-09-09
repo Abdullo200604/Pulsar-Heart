@@ -1,0 +1,10 @@
+/* style.css fayliga saqlang */
+body {
+    margin: 0;
+    overflow: hidden; /* Skroll paydo bo'lishining oldini oladi */
+    background-color: #000;
+}
+
+canvas {
+    display: block; /* Element atrofida bo'sh joy qoldirmaydi */
+}
