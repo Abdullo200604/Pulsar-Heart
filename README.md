@@ -7,7 +7,7 @@ A stunning, glowing heart animation built with pure JavaScript and HTML Canvas. 
 ![Pulsar Heart Animation](https://user-images.githubusercontent.com/your-username/your-repo/your-gif.gif) 
 *(Suggestion: Record a short GIF of the animation and upload it here)*
 
-**[View Live Demo](https://your-username.github.io/Pulsar-Heart/)** *(After deploying to GitHub Pages, replace this link with your own)*
+**[View Live Demo](https://abdullo200604.github.io/Pulsar-Heart/)** *(After deploying to GitHub Pages, replace this link with your own)*
 
 ---
 
